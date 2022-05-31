@@ -2,10 +2,10 @@
 
 ## I am Priyanka.
 
-- 🔭 I’m currently working on Frontend Mentor and some personal projects
-- 🌱 I’m currently learning Javascript and alpine js 
+- 🔭 I’m currently working on Frontend Mentor and a personal project
+- 🌱 I’m currently learning Javascript, Svelte and React
 - 👯 I’m looking to collaborate on freelancing web development or Junior frontend developer.
-- 🤔 I’m looking for help with good resources to learn Javascript
+- 🤔 I’m looking for help with good resources to learn Frontend UI-UX
 - 📫 How to reach me: cssbubble@gmail.com
 - 😄 Pronouns: she/her
 
